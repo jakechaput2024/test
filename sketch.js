@@ -1,4 +1,5 @@
 let mx, my;
+let a;
 let lines = [];
 let lineEndingX, lineEndingY;
 let allConnected = false; //when lines connect dots, this'll become true
